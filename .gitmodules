@@ -1,0 +1,3 @@
+[submodule "jackal"]
+	path = jackal
+	url = git@github.com:tarwich/jackal
